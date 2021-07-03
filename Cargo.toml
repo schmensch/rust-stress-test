@@ -6,7 +6,7 @@ description = "A CPU stresstest, fully saturating CPU resources"
 repository = "https://github.com/Schmensch/rust-stress-test/"
 license = "LGPL-3.0"
 keywords = ["stresstest"]
-categories = ["command-line-tulilities"]
+categories = ["command-line-utilities"]
 include = ["src/**/*", "Cargo.toml"]
 
 [dependencies]
