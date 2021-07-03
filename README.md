@@ -11,4 +11,4 @@ A small program to fully saturate all available CPU resources
 
 ### Compile
 
-You need to clone this repository, then open a terminal in the cloned repository and type `cargo build`. The binarie will be in `target/debug/stresstest`.
+You need to clone this repository, then open a terminal in the cloned repository and type `cargo build`. The binary will be in `target/debug/stresstest`.
