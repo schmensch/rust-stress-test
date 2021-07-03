@@ -9,11 +9,6 @@ A small program to fully saturate all available CPU resources
 - Rust
 - Cargo
 
-### Run
-
-If you want to run it once, open a terminal in this folder and type `cargo run`.
-
 ### Compile
 
-If you want a binary that you can share and execute on multiple machines, type `cargo build`. The binary will be in `target/debug/stresstest`.
-
+You need to clone this repository, then open a terminal in the cloned repository and type `cargo build`. The binarie will be in `target/debug/stresstest`.
