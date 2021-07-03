@@ -19,6 +19,6 @@ You need to clone this repository, then open a terminal in the cloned repository
 
 You can compile code more efficently, resulting in smaller binary sizes and faster execution. To do so, use `cargo build --release`.
 
-### Even more optimisation
+### Even more optimization
 
 I optimize the release binaries with GNU Strip. This is really good for file size, cutting the binary size from 3.2MB to 270KB. To do so, do `strip <binary>`, replacing binary with the binary name.
