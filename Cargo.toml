@@ -1,6 +1,6 @@
 [package]
 name = "cpu-stress-test"
-version = "2.0.0"
+version = "2.0.1"
 edition = "2018"
 description = "A CPU stresstest, fully saturating CPU resources"
 repository = "https://github.com/Schmensch/rust-stress-test/"
